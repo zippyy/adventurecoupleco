@@ -3,7 +3,7 @@ languageCode = "en"
 defaultContentLanguage = "en"
 
 title = "Adventure Couple"
-copyright = "Copyright © 2021-{year}  Adventure Couple™  :heart:"
+copyright = "Copyright © 2021-2023  Adventure Couple™  :heart:"
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
