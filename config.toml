@@ -15,8 +15,8 @@ disableKinds = ["taxonomy", "term"]
 
   links = [
     { email = "mailto:adventurecouple@adventurecouple.co" },
-    { link = "https://onlyfans.com/AdventureCo" },
-    { onlyfans = "href = "https://onlyfans.com/AdventureCo", text = "OnlyFans"" },
+    # { link = "https://" },
+    {onlyfans = { href = "https://onlyfans.com/AdventureCo", text = "OnlyFans" }},
     { amazon = "https://www.amazon.com/hz/wishlist/ls/ML9VHOW93LDX?ref_=wl_share" },
     # { apple = "https://www.apple.com" },
     # { codepen = "https://codepen.io/username" },
