@@ -2,4 +2,4 @@
 description: "This is a demo of the Lynx theme for Hugo."
 ---
 
-Dev
+Welcome to AdventureCouple.Co below you will find all our important links!

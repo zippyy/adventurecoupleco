@@ -11,12 +11,13 @@ disableKinds = ["taxonomy", "term"]
 [author]
   name = "Adventure Couple"
   headline = "An Awesome Traveling Swinger Couple"
-  # image = "img/author.jpg"  # path relative to static directory
+  image = "img/author.jpg"  # path relative to static directory
 
   links = [
-    # { email = "mailto:hello@your_domain.com" },
-    # { link = "https://link-to-some-website.com/" },
-    # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
+    { email = "mailto:adventurecouple@adventurecouple.co" },
+    { link = "https://onlyfans.com/AdventureCo" },
+    { onlyfans = "href = "https://onlyfans.com/AdventureCo", text = "OnlyFans"" },
+    { amazon = "https://www.amazon.com/hz/wishlist/ls/ML9VHOW93LDX?ref_=wl_share" },
     # { apple = "https://www.apple.com" },
     # { codepen = "https://codepen.io/username" },
     # { dev = "https://dev.to/username" },
@@ -28,7 +29,7 @@ disableKinds = ["taxonomy", "term"]
     # { github = "https://github.com/username" },
     # { gitlab = "https://gitlab.com/username" },
     # { google = "https://www.google.com/" },
-    # { instagram = "https://instagram.com/username" },
+    { instagram = "https://instagram.com/AdventureCoupleCo" },
     # { keybase = "https://keybase.io/username" },
     # { kickstarter = "https://www.kickstarter.com/profile/username" },
     # { lastfm = "https://lastfm.com/user/username" },
@@ -38,7 +39,7 @@ disableKinds = ["taxonomy", "term"]
     # { microsoft = "https://www.microsoft.com/" },
     # { patreon = "https://www.patreon.com/username" },
     # { pinterest = "https://pinterest.com/username" },
-    # { reddit = "https://reddit.com/user/username" },
+    { reddit = "https://reddit.com/user/AdventureCoupleCo" },
     # { slack = "https://workspace.url/team/userid" },
     # { snapchat = "https://snapchat.com/add/username" },
     # { soundcloud = "https://soundcloud.com/username" },
