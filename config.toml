@@ -3,14 +3,14 @@ languageCode = "en"
 defaultContentLanguage = "en"
 
 title = "Adventure Couple"
-copyright = "Copyright © 2021-2023  Adventure Couple™  :heart:"
+copyright = "Copyright © 2021-2023  Adventure Couple™  :kiss:"
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
 [author]
   name = "Adventure Couple"
-  headline = "An Awesome Adventurous Traveling Swinger Couple! :heart:"
+  headline = "An Awesome Adventurous Traveling Swinger Couple! :kiss:"
   image = "img/author.jpg"  # path relative to static directory
 
   links = [
