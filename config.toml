@@ -10,14 +10,14 @@ disableKinds = ["taxonomy", "term"]
 
 [author]
   name = "Adventure Couple"
-  headline = "An Awesome Traveling Swinger Couple"
+  headline = "An Awesome Adventurous Traveling Swinger Couple! :heart:"
   image = "img/author.jpg"  # path relative to static directory
 
   links = [
-    { email = "mailto:adventurecouple@adventurecouple.co" },
+    { email = { href = "mailto:adventurecouple@adventurecouple.co", text= "Email Us" }},
     # { link = "https://" },
-    {onlyfans = { href = "https://onlyfans.com/AdventureCo", text = "OnlyFans" }},
-    { amazon = "https://www.amazon.com/hz/wishlist/ls/ML9VHOW93LDX?ref_=wl_share" },
+    {onlyfans = { href = "https://onlyfans.com/AdventureCoupleCo", text = "OnlyFans" }},
+    { amazon = { href = "https://www.amazon.com/hz/wishlist/ls/ML9VHOW93LDX?ref_=wl_share", text= "Amazon Wishlist" }},
     # { apple = "https://www.apple.com" },
     # { codepen = "https://codepen.io/username" },
     # { dev = "https://dev.to/username" },
